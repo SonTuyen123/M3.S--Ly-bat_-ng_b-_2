@@ -1,0 +1,8 @@
+{
+  "name": "M3.Xử lý bất đồng bộ 2",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "readline-sync": "^1.4.10"
+  }
+}
